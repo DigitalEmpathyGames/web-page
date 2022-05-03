@@ -2,7 +2,7 @@
   "name": "pagina_react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http:// DigitalEmpathyGames.github.io/ web-page",
+  "homepage": "http://DigitalEmpathyGames.github.io/web-page",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.1.1",
