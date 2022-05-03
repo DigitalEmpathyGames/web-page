@@ -1,0 +1,89 @@
+.fondoPantalla {
+    background-color:#FFC9C9;
+    bottom:0;
+    top:0;
+    left:0;
+    right:0;
+    position: fixed;
+    overflow-y: scroll;
+}
+
+.bordeRedondo{
+    border-width: 5px;
+    border-style: solid;
+    border-color: #E5879F;
+    border-radius: 100%;
+}
+
+.bordeSuavizado{
+    border-width: 5px;
+    border-style: solid;
+    border-color: #E5879F;
+    border-radius: 10px;
+}
+
+.centrador{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.contenedorPantalla {
+    width: 98%;
+    height: 98%;
+}
+
+.contenedorDescripcion{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    padding-top: 10px;
+    margin-bottom: 5px;
+}
+
+.conetnedorFotoperfil{
+    height: 10%;
+    width: 10%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
+.descripcion{
+    height: 100%;
+    width: 100%;
+    background-color:#E3C4E5;
+    display: flex;
+}
+
+.fotoPerfil{
+    height: 100%;
+    width: 100%;
+}
+
+.fuenteNombre{
+    color:#684f7c;
+    text-align: center;
+    font-size: x-large;
+}
+
+.barra1{
+    display: flex;
+    justify-content: center;
+}
+.divNombre{
+    display: flex;
+    justify-content: center;
+}
+.contenedornombre{
+    height: 40px;
+    width: 30%;
+    background-color: #FAE0EB;
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
